@@ -1,5 +1,5 @@
 def new_hash
-  []
+  p []
 end
 
 def my_hash
