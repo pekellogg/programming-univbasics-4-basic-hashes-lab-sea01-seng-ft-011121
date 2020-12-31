@@ -5,6 +5,7 @@ end
 def my_hash
   {
     1: "value_1",
+    2: "value_2"
   }
 end
 
