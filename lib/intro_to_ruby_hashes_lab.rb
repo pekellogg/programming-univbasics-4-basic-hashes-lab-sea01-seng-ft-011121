@@ -4,8 +4,8 @@ end
 
 def my_hash
   {
-    1: "value_1",
-    2: "value_2"
+    :value1 => "value_1",
+    :value2 => "value_2"
   }
 end
 
